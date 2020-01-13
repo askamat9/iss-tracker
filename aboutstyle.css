@@ -115,7 +115,7 @@ body{
 }
 
 .section-c{
-  background:blue;
+  background:linear-gradient(blue, lightblue);
   color:white;
 }
 
